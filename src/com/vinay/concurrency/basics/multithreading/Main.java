@@ -1,4 +1,4 @@
-package com.vinay.concurrency.multithreading;
+package com.vinay.concurrency.basics.multithreading;
 
 public class Main {
 
